@@ -1,0 +1,18 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  File "обзорка.jpg"
+  Type "RASTER"
+  (179.21664476, 63.11521983) (0, 0) Label "Point 1",
+  (179.48205471, 63.02598912) (12369, 9182) Label "Point 2",
+  (179.21664476, 63.02598912) (0, 9182) Label "Point 3",
+  (179.48205471, 63.11521983) (12369, 0) Label "Point 4",
+  (179.34936047, 63.07063867) (6184, 4591) Label "Point 5",
+  (179.34936047, 63.11521983) (6184, 0) Label "Point 6",
+  (179.21664476, 63.07063867) (0, 4591) Label "Point 7",
+  (179.48205471, 63.07063867) (12369, 4591) Label "Point 8",
+  (179.34936047, 63.02598912) (6184, 9182) Label "Point 9"
+ CoordSys Earth Projection 10, 157, 7, 0
+ Units "degree"
